@@ -15,7 +15,7 @@ The app is designed to be user-friendly, with a focus on simplicity and responsi
 ## Screenshots
 <div align="center">
 
-| Conversion View 1 | Conversion View 2 |
+| View 1 | View 2 |
 |-------------------|-------------------|
 | <img width="465" height="878" alt="Conversion SS" src="https://github.com/user-attachments/assets/c83c3ac1-dd48-49d6-a4af-2b2da185ab9a" /> | <img width="465" height="878" alt="Conversion SS 2" src="https://github.com/user-attachments/assets/5e302067-b832-4acf-9077-8121e7b0ba5a" /> |
 
@@ -38,11 +38,11 @@ The conversion logic is implemented in a single computed property, making it eas
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/unit-conversion-app.git
+   git clone https://github.com/rishikanthkc/ConversionApp.git
    ```
 2. Open the project in Xcode:
    ```bash
-   open UnitConversion.xcodeproj
+   open Conversion.xcodeproj
    ```
 3. Build and run the app on a simulator or physical iOS device.
 
